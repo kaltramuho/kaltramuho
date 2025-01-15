@@ -13,16 +13,21 @@ As a woman in programming, I’m here to prove every day that the possibilities 
 
 <h2>👨🏻‍💻 About me</h2> 
 - 👋 Hi, my name is Kaltra and full stack engineer.
+<br>
 - Programming and technology are my passions.
+<br>
 - I've been working as a programmer and senior developer for 6+ years.
+<br>
 - I'm an excellent full-stack developer who loves solving complex problems.
+<br>
 - Currently, I'm working on various exciting projects (and having fun doing so!).
+<br>
 - I thrive on creativity, innovation, and continuous learning.
+<br>
 - I aim to contribute to cutting-edge solutions that make a difference.
+<br>
 - Feel free to explore my projects and get in touch!
 
-
-# Languages & Framework
 <h2>🛠 Languages & Framework</h2> 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
