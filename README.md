@@ -12,7 +12,7 @@ As a woman in programming, I’m here to prove every day that the possibilities 
 </div>
 
 <h2>👨🏻‍💻 About me</h2> 
-- 👋 Hi, my name is Kaltra and full stack engineer.
+- My name is Kaltra and full stack engineer.
 <br>
 - Programming and technology are my passions.
 <br>
