@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Kaltra Muho! 👋</h1>
- 
-<br>
-# Introduce
+# Languages & Framework
+
 <div>
 - Programming and technology are my passions.
 <br>
