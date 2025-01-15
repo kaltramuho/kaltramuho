@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋,I am Software Engineer</h1>
+<h1 align="center">Hi there, I'm Kaltra Muho! 👋</h1>
 
 <p>👋 Hello, I'm <b>Kaltra Muho</b> but friends call me <b>Mehdi</b>. My PT. is INFJ and I am into movies, series (especially sitcoms) and video games.
 <br>
-😍 I love programming and technology.
+Programming and technology are my passions.
 <br>
-⌛ I have been working as a programmer and senior developer for 3 years.
+ I've been working as a programmer and senior developer for 6+ years.
 <br>
-👨‍💻 I'm currently working on anything 😁.
+I'm an excellent full-stack developer who loves solving complex problems.
+<br>
+Currently, I'm working on various exciting projects (and having fun doing so!).
+<br>
+I thrive on creativity, innovation, and continuous learning.
+<br>
+I aim to contribute to cutting-edge solutions that make a difference.
+<br>
+Feel free to explore my projects and get in touch!
 </p>
 
 <h2>Frameworks and Tools:</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,dotnet,bootstrap,tailwind,jquery,angular,azure,docker,git,github,gitlab,githubactions,linux,nginx,rabbitmq,mongodb,mysql,rails,sqlite,visualstudio,vscode,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,dotnet,bootstrap,tailwind,vue.js,react,reactnative,jquery,angular,azure,docker,git,github,gitlab,githubactions,linux,nginx,rabbitmq,mongodb,mysql,rails,sqlite,visualstudio,vscode,postman,powershell" />
   </a>
 </p>
 
