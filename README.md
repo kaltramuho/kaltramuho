@@ -1,20 +1,26 @@
 <h1 align="center">Hi there, I'm Kaltra Muho! 👋</h1>
 
-<p>👋 Hello, I'm <b>Kaltra Muho</b> but friends call me <b>Mehdi</b>. My PT. is INFJ and I am into movies, series (especially sitcoms) and video games.
+<p>👋 Hello, I'm <b>Kaltra Muho</b> 
 <br>
-Programming and technology are my passions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matintosh&label=Profile%20views&color=0e75b6&style=flat" alt="matintosh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matintosh" alt="matintosh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/matintosh" target="blank"><img src="https://img.shields.io/twitter/follow/@matintosh?logo=twitter&style=for-the-badge" alt="@matintosh" /></a> </p>
 <br>
- I've been working as a programmer and senior developer for 6+ years.
+- Programming and technology are my passions.
 <br>
-I'm an excellent full-stack developer who loves solving complex problems.
+- I've been working as a programmer and senior developer for 6+ years.
 <br>
-Currently, I'm working on various exciting projects (and having fun doing so!).
+- I'm an excellent full-stack developer who loves solving complex problems.
 <br>
-I thrive on creativity, innovation, and continuous learning.
+- Currently, I'm working on various exciting projects (and having fun doing so!).
 <br>
-I aim to contribute to cutting-edge solutions that make a difference.
+- I thrive on creativity, innovation, and continuous learning.
 <br>
-Feel free to explore my projects and get in touch!
+- I aim to contribute to cutting-edge solutions that make a difference.
+<br>
+- Feel free to explore my projects and get in touch!
 </p>
 
 # Languages & Framework
