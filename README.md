@@ -2,12 +2,6 @@
 
 <p>👋 Hello, I'm <b>Kaltra Muho</b> 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matintosh&label=Profile%20views&color=0e75b6&style=flat" alt="matintosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matintosh" alt="matintosh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/matintosh" target="blank"><img src="https://img.shields.io/twitter/follow/@matintosh?logo=twitter&style=for-the-badge" alt="@matintosh" /></a> </p>
-<br>
 - Programming and technology are my passions.
 <br>
 - I've been working as a programmer and senior developer for 6+ years.
