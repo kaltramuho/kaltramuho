@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Kaltra Muho! 👋</h1>
-
-<p>👋 Hello, I'm <b>Kaltra Muho</b> 
+ 
 <br>
 - Programming and technology are my passions.
 <br>
