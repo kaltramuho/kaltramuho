@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kaltra Muho! 👋</h1>
  
 <br>
-<div align="center">
+<div>
 - Programming and technology are my passions.
 <br>
 - I've been working as a programmer and senior developer for 6+ years.
