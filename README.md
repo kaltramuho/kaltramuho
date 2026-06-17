@@ -1,32 +1,40 @@
 <h1 align="center">Hi there, I'm Kaltra Muho! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <div id="header" align="center">
-   <p> As a woman in tech, I pride myself on building dynamic, user-centric solutions that transform ideas into seamless digital experiences. My expertise spans JavaScript and its ecosystem, with a focus on cutting-edge tools and frameworks like React, Vue, Next.js, and backend technologies such as Node.js, Express, and MongoDB.
+   <p>
+Senior Full-Stack Engineer with 8+ years of experience building scalable web applications, cloud-native solutions, and distributed systems across fintech, real estate, innovation management, and e-commerce domains.
 
-But more than just writing clean, efficient code, I strive to bring a sense of creativity, empathy, and collaboration to every project. I believe the best solutions are born at the intersection of technical excellence and human understanding.
+My expertise spans modern frontend and backend technologies, including React, Vue.js, Next.js, Node.js, NestJS, Laravel, and Symfony. I enjoy designing secure APIs, building high-performance user experiences, and developing reliable software that delivers real business value.
 
-Each line of code is a statement of passion and determination—a reflection of what it means to challenge norms, break boundaries, and create without limits. Whether it’s developing a single-page application or crafting scalable full-stack systems, I approach every challenge with curiosity and an unwavering commitment to excellence.
+I have a strong background in cloud infrastructure, DevOps, and software architecture, working with AWS, GCP, Docker, Kubernetes, CI/CD pipelines, and modern engineering practices. I am passionate about writing clean, maintainable code, applying Test-Driven Development (TDD), and continuously improving software quality.
 
-As a woman in programming, I’m here to prove every day that the possibilities are infinite, not just for technology but for the stories we tell through it. Together, we shape a future where innovation knows no gender, and the only limit is how far we dare to dream.
+I also enjoy exploring AI-powered applications and intelligent automation, integrating modern AI capabilities into web platforms to enhance user experiences, streamline workflows, and support business processes.
 
-</p>
+For me, software development is about solving meaningful problems, embracing continuous learning, and building technology that makes a positive impact.
+   </p>
 </div>
 
-<h2>👨🏻‍💻 About me</h2> 
-- My name is Kaltra and full stack engineer.
+<h2>👩🏻‍💻 About me</h2>
+
+- My name is Kaltra, and I am a Senior Full-Stack Engineer.
 <br>
-- Programming and technology are my passions.
+- I specialize in building scalable web applications and cloud-native solutions.
 <br>
-- I've been working as a programmer and senior developer for 6+ years.
+- I have 8+ years of experience working across frontend, backend, and cloud technologies.
 <br>
-- I'm an excellent full-stack developer who loves solving complex problems.
+- My primary stack includes React, Vue.js, Next.js, Node.js, NestJS, Laravel, and Symfony.
 <br>
-- Currently, I'm working on various exciting projects (and having fun doing so!).
+- I have hands-on experience with AWS, GCP, Docker, Kubernetes, and CI/CD automation.
 <br>
-- I thrive on creativity, innovation, and continuous learning.
+- I enjoy software architecture, performance optimization, and solving complex technical challenges.
 <br>
-- I aim to contribute to cutting-edge solutions that make a difference.
+- I am passionate about Test-Driven Development (TDD), clean architecture, and code quality.
 <br>
-- Feel free to explore my projects and get in touch!
+- I have contributed to AI-powered features and intelligent automation capabilities in modern web applications.
+<br>
+- I thrive on continuous learning, innovation, and collaboration.
+<br>
+- Feel free to explore my projects and connect with me!
 
 <h2>🛠 Languages & Framework</h2> 
 <div style="display: flex; align-items: flex-start; align: center">
