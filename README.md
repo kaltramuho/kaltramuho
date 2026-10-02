@@ -2,37 +2,29 @@
 
 <div id="header" align="center">
    <p>
-Senior Full-Stack Engineer with 8+ years of experience building scalable web applications, cloud-native solutions, and distributed systems across fintech, real estate, innovation management, and e-commerce domains.
+I'm a Senior Full-Stack Engineer working across frontend and backend development, cloud applications, APIs, and software architecture.
 
-My expertise spans modern frontend and backend technologies, including React, Vue.js, Next.js, Node.js, NestJS, Laravel, and Symfony. I enjoy designing secure APIs, building high-performance user experiences, and developing reliable software that delivers real business value.
+Most of my work has involved building and maintaining web applications, developing new features, improving existing systems, and supporting applications through testing, deployment, and production.
 
-I have a strong background in cloud infrastructure, DevOps, and software architecture, working with AWS, GCP, Docker, Kubernetes, CI/CD pipelines, and modern engineering practices. I am passionate about writing clean, maintainable code, applying Test-Driven Development (TDD), and continuously improving software quality.
+I enjoy working across the full development process and understanding how different parts of a system fit together. More recently, I've also been working with AI integrations and automation as part of modern web applications and development workflows.
 
-I also enjoy exploring AI-powered applications and intelligent automation, integrating modern AI capabilities into web platforms to enhance user experiences, streamline workflows, and support business processes.
-
-For me, software development is about solving meaningful problems, embracing continuous learning, and building technology that makes a positive impact.
+I like keeping things practical: writing maintainable code, learning as projects evolve, and building software that works well for the people using it.
    </p>
 </div>
 
 <h2>👩🏻‍💻 About me</h2>
 
-- My name is Kaltra, and I am a Senior Full-Stack Engineer.
+- Full-stack development across frontend and backend applications.
 <br>
-- I specialize in building scalable web applications and cloud-native solutions.
+- Web applications, APIs, integrations, and cloud-based systems.
 <br>
-- I have 8+ years of experience working across frontend, backend, and cloud technologies.
+- Experience working with both established products and new development.
 <br>
-- My primary stack includes React, Vue.js, Next.js, Node.js, NestJS, Laravel, and Symfony.
+- Comfortable working across development, testing, deployment, and production support.
 <br>
-- I have hands-on experience with AWS, GCP, Docker, Kubernetes, and CI/CD automation.
+- Currently exploring practical uses of AI and automation in software products.
 <br>
-- I enjoy software architecture, performance optimization, and solving complex technical challenges.
-<br>
-- I am passionate about Test-Driven Development (TDD), clean architecture, and code quality.
-<br>
-- I have contributed to AI-powered features and intelligent automation capabilities in modern web applications.
-<br>
-- I thrive on continuous learning, innovation, and collaboration.
+- Always interested in learning from new projects, technologies, and people.
 <br>
 - Feel free to explore my projects and connect with me!
 
@@ -75,11 +67,9 @@ For me, software development is about solving meaningful problems, embracing con
 <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" />
 <br>NestJS
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" />
 <br>PHP
@@ -114,11 +104,9 @@ For me, software development is about solving meaningful problems, embracing con
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
 <br>Tailwind
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
 <br>PostgreSQL
@@ -153,11 +141,9 @@ For me, software development is about solving meaningful problems, embracing con
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
 <br>Docker
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" />
 <br>Kubernetes
@@ -192,7 +178,6 @@ For me, software development is about solving meaningful problems, embracing con
 <img src="https://img.shields.io/badge/AI-Automation-00A67E?style=for-the-badge" />
 <br>AI Apps
 </td>
-
 </tr>
 
 </table>
